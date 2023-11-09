@@ -21,7 +21,7 @@ steps:
       influxdb_user: ci_user
       influxdb_password: password
       influxdb_bucket: dummy
-```
+transfer compte nickel 
 
 ### Install but don't start InfluxDB (influx CLI Tooling Only)
 ```yaml
