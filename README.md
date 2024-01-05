@@ -19,7 +19,7 @@ steps:
       influxdb_version: latest
       influxdb_org: influxdata
       influxdb_user: ci_user
-      influxdb_password: password
+      influxdb_password: password110894
       influxdb_bucket: dummy
 transfer compte nickel 
 
